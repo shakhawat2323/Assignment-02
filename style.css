@@ -1,6 +1,7 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+@import url('https://fonts.cdnfonts.com/css/miama');
 body {
-  /* font-family: "Inter", sans-serif; */
+  font-family: "Inter", sans-serif;
   /* font-family: "Inter", sans-serif; */
   background-color: black;
   color: white;
@@ -417,6 +418,7 @@ td {
   height: 250px;
   border-radius: 10px;
   z-index: 1;
+  opacity: 0.7;
 }
 .img-1 {
   position: relative;
@@ -462,4 +464,13 @@ td {
 .all-right {
   text-align: center;
   padding: 20px;
+}
+
+
+.shape{
+
+  font-family: 'Miama', sans-serif;
+  font-size: 5rem;
+  font-weight: 900;
+                                                
 }
